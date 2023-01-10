@@ -1,6 +1,7 @@
 import da from './assets/localization/languages/da.json'
 import de from './assets/localization/languages/de.json'
 import en from './assets/localization/languages/en.json'
+import en from './assets/localization/languages/cs.json'
 import es from './assets/localization/languages/es.json'
 import et from './assets/localization/languages/et.json'
 import fi from './assets/localization/languages/fi.json'
@@ -33,7 +34,7 @@ export class Constants {
 
   static readonly HORIZON_Y = 108
   static readonly LOCALIZATION_LANGUAGES: Record<string, TSunCardTexts> = {
-    da, de, en, es, et, fi, fr, hu, it, nl, pl, 'pt-BR': ptBR, ru, sl, sv
+    da, de, en, cs, es, et, fi, fr, hu, it, nl, pl, 'pt-BR': ptBR, ru, sl, sv
   }
   static readonly SUN_RADIUS = 17
 }
