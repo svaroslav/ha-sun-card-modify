@@ -1,0 +1,12 @@
+{
+  "Azimuth": "Azimut",
+  "Dawn": "Rozbřesk",
+  "Dusk": "Soumrak",
+  "Elevation": "Výška",
+  "Noon": "Zenit",
+  "Sunrise": "Východ",
+  "Sunset": "Západ",
+  "errors": {
+    "SunIntegrationNotFound": "Integrace Slunce nenalezena"
+  }
+}
